@@ -51,7 +51,7 @@ We follow the Fork & Pull Request workflow for contributions. Here's how you can
 
    ```bash
    git clone https://github.com/Hemephelus/CSC-419-CLASS-PROJECT.git
-   cd research-timeline-reminder
+   cd CSC-419-CLASS-PROJECT
    ```
 
 3. **Add the Upstream Remote**:
